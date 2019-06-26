@@ -11,3 +11,6 @@
 
 ## 간략설명
       React Native 공부겸 HomeGrab 개발을 위함.
+
+## 참고 사이트
+      [React Native] 인스타그램 UI 만들기](https://velog.io/@anpigon/React-Native-UI-%EB%A7%8C%EB%93%A4%EA%B8%B0-1)
